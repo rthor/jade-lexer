@@ -8,7 +8,7 @@
 {"type":"indent","line":6,"val":2}
 {"type":"tag","line":6,"val":"body","selfClosing":false}
 {"type":"indent","line":7,"val":4}
-{"type":"mixin","line":7,"val":"foo","args":null}
+{"type":"call","line":7,"val":"foo"}
 {"type":"outdent","line":8}
 {"type":"outdent","line":8}
 {"type":"eos","line":8}
